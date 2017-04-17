@@ -1,0 +1,3 @@
+Fetch date and temperature from temperature_data where zip code is greater than 300000 and less than 399999.
+
+SELECT date,temperature from temperature_data where zip_code>300000 AND zip_code<399999;
